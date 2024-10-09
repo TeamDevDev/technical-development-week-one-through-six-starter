@@ -2,6 +2,25 @@
 
 <!---toc start-->
 
+* [Table of Contents](#table-of-contents)
+  * [Assessment Overview](#assessment-overview)
+  * [Technical Development Assessment](#technical-development-assessment)
+    * [Add Your Name Here](#add-your-name-here)
+    * [Summary Checklist](#summary-checklist)
+    * [Technical Development Reflection](#technical-development-reflection)
+      * [What is fuzzing? How can fuzzing support the development of high-quality software?](#what-is-fuzzing-how-can-fuzzing-support-the-development-of-high-quality-software)
+      * [What is one practice/technique from the Fuzzing/Debugging book that enabled you to become a more joy-filled software engineer?](#what-is-one-practicetechnique-from-the-fuzzingdebugging-book-that-enabled-you-to-become-a-more-joy-filled-software-engineer)
+      * [From the perspective of technical development and the content in the Fuzzing/Debugging book, what is the greatest weakness of your software engineering team? Why? How would you advise the team to improve?](#from-the-perspective-of-technical-development-and-the-content-in-the-fuzzingdebugging-book-what-is-the-greatest-weakness-of-your-software-engineering-team-why-how-would-you-advise-the-team-to-improve)
+      * [From the perspective of technical development and the content in the Fuzzing/Debugging book, what is your greatest weakness? Why? How do you plan to improve after as this course continues?](#from-the-perspective-of-technical-development-and-the-content-in-the-fuzzingdebugging-book-what-is-your-greatest-weakness-why-how-do-you-plan-to-improve-after-as-this-course-continues)
+    * [Lessons Learned in Technical Development](#lessons-learned-in-technical-development)
+      * [Code Coverage](#code-coverage)
+      * [Mutation Testing](#mutation-testing)
+      * ["Black Box" Testing](#black-box-testing)
+      * ["White Box" Testing](#white-box-testing)
+  * [Learning Objectives](#learning-objectives)
+    * [Restatement of Learning Objective](#restatement-of-learning-objective)
+    * [Assessment of Your Attainment of the Learning Objective](#assessment-of-your-attainment-of-the-learning-objective)
+
 <!---toc end-->
 
 ## Assessment Overview
@@ -120,8 +139,8 @@ effectively teach it to others.
 
 ### Restatement of Learning Objective
 
-- SE-3: Can effectively create and use software engineering tools that support
-software engineering activities like testing and debugging.
+TODO: Make sure to re-state one of the learning objectives, using the correct
+notation for its label as provided in the syllabus.
 
 ### Assessment of Your Attainment of the Learning Objective
 
