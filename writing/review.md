@@ -52,7 +52,7 @@ TODO: Provide a brief one paragraph response to these questions.
 
 TODO: Write a brief one paragraph response to this question.
 
-#### What is one practice from the Fuzzing/Debugging book that enabled you to become a more joy-filled software engineer?
+#### What is one practice/technique from the Fuzzing/Debugging book that enabled you to become a more joy-filled software engineer?
 
 TODO: Write a brief one paragraph response to this question.
 
@@ -60,7 +60,7 @@ TODO: Write a brief one paragraph response to this question.
 
 TODO: Write a brief one paragraph response to this question.
 
-#### From the perspective of technical development and the content in the Fuzzing/Debugging book, what is your greatest weakness? Why? How do you plan to improve after the completion of this course?
+#### From the perspective of technical development and the content in the Fuzzing/Debugging book, what is your greatest weakness? Why? How do you plan to improve after as this course continues?
 
 TODO: Write a brief one paragraph response to this question.
 
