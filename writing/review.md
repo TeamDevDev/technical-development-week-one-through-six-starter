@@ -82,7 +82,7 @@ TODO: Make sure that you delete all of the prompts in the following sections.
 
 TODO: Write one sentence about this skill.
 TODO: Provide at least one reference to support your assertion.
-TODO: Your reference should be a URL in the "Software Engineering at Google" book
+TODO: Your reference should be a URL in the "Fuzzing Book"
       or a reference to a reputable web site that you found online.
 
 #### Mutation Testing
