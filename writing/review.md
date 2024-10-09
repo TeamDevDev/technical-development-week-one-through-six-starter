@@ -11,7 +11,7 @@
       * [What is fuzzing? How can fuzzing support the development of high-quality software?](#what-is-fuzzing-how-can-fuzzing-support-the-development-of-high-quality-software)
       * [What is one practice/technique from the Fuzzing/Debugging book that enabled you to become a more joy-filled software engineer?](#what-is-one-practicetechnique-from-the-fuzzingdebugging-book-that-enabled-you-to-become-a-more-joy-filled-software-engineer)
       * [From the perspective of technical development and the content in the Fuzzing/Debugging book, what is the greatest weakness of your software engineering team? Why? How would you advise the team to improve?](#from-the-perspective-of-technical-development-and-the-content-in-the-fuzzingdebugging-book-what-is-the-greatest-weakness-of-your-software-engineering-team-why-how-would-you-advise-the-team-to-improve)
-      * [From the perspective of technical development and the content in the Fuzzing/Debugging book, what is your greatest weakness? Why? How do you plan to improve after as this course continues?](#from-the-perspective-of-technical-development-and-the-content-in-the-fuzzingdebugging-book-what-is-your-greatest-weakness-why-how-do-you-plan-to-improve-after-as-this-course-continues)
+      * [From the perspective of technical development and the content in the Fuzzing/Debugging book, what is your greatest weakness? Why? How do you plan to improve as this course continues?](#from-the-perspective-of-technical-development-and-the-content-in-the-fuzzingdebugging-book-what-is-your-greatest-weakness-why-how-do-you-plan-to-improve-as-this-course-continues)
     * [Lessons Learned in Technical Development](#lessons-learned-in-technical-development)
       * [Code Coverage](#code-coverage)
       * [Mutation Testing](#mutation-testing)
@@ -79,7 +79,7 @@ TODO: Write a brief one paragraph response to this question.
 
 TODO: Write a brief one paragraph response to this question.
 
-#### From the perspective of technical development and the content in the Fuzzing/Debugging book, what is your greatest weakness? Why? How do you plan to improve after as this course continues?
+#### From the perspective of technical development and the content in the Fuzzing/Debugging book, what is your greatest weakness? Why? How do you plan to improve as this course continues?
 
 TODO: Write a brief one paragraph response to this question.
 
