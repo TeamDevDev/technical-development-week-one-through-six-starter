@@ -67,10 +67,10 @@ TODO: Write a brief one paragraph response to this question.
 ### Lessons Learned in Technical Development
 
 Write one sentence to summarize what you have learned about each skill in the
-area of **technical development for software engineering**. Each sentence
-that you write should be accompanied by at least one reference that supports
-your summarization. While you are encouraged to cite content from the "Software
-Engineering at Google" book, it is acceptable for you to cite any source
+area of **technical development for software engineering**. Each sentence that
+you write should be accompanied by at least one reference that supports your
+summarization. While you are encouraged to cite content from the "Fuzzing Book"
+and/or the "Debugging Book", it is acceptable for you to cite any source
 available online. Please make sure that every reference that you provide is to
 a web site link that the instructor can reference. Ultimately, you can think of
 the sentence that you write as advice that you would give to a student at the
