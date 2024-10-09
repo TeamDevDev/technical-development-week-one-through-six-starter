@@ -48,23 +48,23 @@ TODO: Please do not fill in the checkbox if you did not complete the technical d
 
 TODO: Provide a brief one paragraph response to these questions.
 
-#### What is software engineering? How is software engineering different than programming?
+#### What is fuzzing? How can fuzzing support the development of high-quality software?
 
 TODO: Write a brief one paragraph response to this question.
 
-#### What is one insight from the "Software Engineering at Google" book that you have applied to your practice of software engineering? What happened when you applied this insight?
+#### What is one practice from the Fuzzing/Debugging book that enabled you to become a more joy-filled software engineer?
 
 TODO: Write a brief one paragraph response to this question.
 
-#### From the perspective of technical development and the content in the "Software Engineering at Google" book, what is the greatest weakness of your software engineering team? Why? How would you advise the team to improve?
+#### From the perspective of technical development and the content in the Fuzzing/Debugging book, what is the greatest weakness of your software engineering team? Why? How would you advise the team to improve?
 
 TODO: Write a brief one paragraph response to this question.
 
-#### From the perspective of technical development and the content in the "Software Engineering at Google" book, what is your greatest weakness? Why? How do you plan to improve as this course continues?
+#### From the perspective of technical development and the content in the Fuzzing/Debugging book, what is your greatest weakness? Why? How do you plan to improve after the completion of this course?
 
 TODO: Write a brief one paragraph response to this question.
 
-### Lessons Learned in technical Development
+### Lessons Learned in Technical Development
 
 Write one sentence to summarize what you have learned about each skill in the
 area of **technical development for software engineering**. Each sentence
@@ -78,32 +78,32 @@ start of the next edition of the Software Engineering course.
 
 TODO: Make sure that you delete all of the prompts in the following sections.
 
-#### Effective Team Work
+#### Code Coverage
 
 TODO: Write one sentence about this skill.
 TODO: Provide at least one reference to support your assertion.
 TODO: Your reference should be a URL in the "Software Engineering at Google" book
       or a reference to a reputable web site that you found online.
 
-#### Skilled Project Management
+#### Mutation Testing
 
 TODO: Write one sentence about this skill.
 TODO: Provide at least one reference to support your assertion.
-TODO: Your reference should be a URL in the "Software Engineering at Google" book
+TODO: Your reference should be a URL in the "Fuzzing Book"
       or a reference to a reputable web site that you found online.
 
-#### Effective Communication
+#### "Black Box" Testing
 
 TODO: Write one sentence about this skill.
 TODO: Provide at least one reference to support your assertion.
-TODO: Your reference should be a URL in the "Software Engineering at Google" book
+TODO: Your reference should be a URL in the "Fuzzing Book"
       or a reference to a reputable web site that you found online.
 
-#### Effective Knowledge Sharing
+#### "White Box" Testing
 
 TODO: Write one sentence about this skill.
 TODO: Provide at least one reference to support your assertion.
-TODO: Your reference should be a URL in the "Software Engineering at Google" book
+TODO: Your reference should be a URL in the "Fuzzing Book"
       or a reference to a reputable web site that you found online.
 
 ## Learning Objectives
